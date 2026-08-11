@@ -6,21 +6,29 @@
 
 ## Account State
 - [x] Google (Registered, ID: Neclyon038)
-- [ ] QQ (Not migerated yet)
+- [x] QQ 
 - [ ] Microsoft (Not migerated yet)
-- [ ] GitHub (Not migerated yet, and the ID `Neclyon` is still available)
-- [ ] Telegram (I cannot even log in due to phone number limitation)
+- [x] GitHub 
+- [ ] Telegram
 - [ ] Domain name `neclyon.top`.
 - [ ] QQ Mail (Not migerated yet)
-- [ ] X and Elon Musk-related accounts.(Not migerated yet)
-- [ ] Bilibili (Not migerated yet)
+> 现在主号 3372728115 还是 creeperspy@qq.com，而 neclyon@qq.com 在小号，等到全部迁徙好了我会将它们的位置交换，反正确保都在我手里。
+- [ ] X and Elon Musk-related accounts.(暂缓48h）
+- [x] Bilibili
 - [ ] Twitch (Not migerated yet)
 - [ ] Tiktok (I actually mean it, not migerated yet)
 - [ ] Netease Music (Not migerated yet)
-- [ ] WeChat (Not migerated yet)
+- [x] WeChat
+- [x] Reddit
 - [ ] Chinese payment softwares (Not migerated yet)
 - [ ] Discord (Not migerated yet)
-- [ ] Game accounts (Like Minecraft, Roblox, Steam, etc., not migerated yet)
+- [x] Steam
+- [ ] Roblox
+- [ ] Minecraft (这里指档案名称）
+> 由于我注册的时候是我哥的微软账号，然后傻逼微软把账号绑定一刀切，导致正常需求满足不了，黄牛倒是一点都没少，真他妈傻逼。<br/>
+> 微微的软一直以来都是个傻逼公司。
 - [ ] Apple ID x2, one in China zone and one in USA zone (Not migerated yet)
 - [ ] VPN accounts(Like BBY, not migerated yet)
-- [ ] AI accounts(Like Doubao and ChatGPT, not migerated yet)
+- [ ] 豆包
+- [ ] Tavily
+- [ ] OpenAI (即 ChatGPT，由于傻逼的 Password 按钮消失（这是已经经过验证的 Bug，能被广泛复现），导致我无法重新换绑谷歌号)
