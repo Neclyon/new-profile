@@ -2,7 +2,7 @@
 
 | Nickname | ID | Avatar |
 |--------|--------|--------|
-| 正源Neclyon | `neclyon`/`neclyon038` | 暂未确定 |
+| 正源Neclyon | `neclyon`/`neclyon038` | <img width="380" height="380" alt="1" src="https://github.com/user-attachments/assets/83f5eb96-2ce1-4af3-abcb-b420e226e977" /> |
 
 ## Account State
 - [x] Google (Registered, ID: Neclyon038)
@@ -10,7 +10,7 @@
 - [ ] Microsoft (Not migerated yet)
 - [ ] GitHub (Not migerated yet, and the ID `Neclyon` is still available)
 - [ ] Telegram (I cannot even log in due to phone number limitation)
-- [ ] The domain name `neclyon.dev` is kinda expensive and I'm saving money for it.
+- [ ] Domain name `neclyon.top`.
 - [ ] QQ Mail (Not migerated yet)
 - [ ] X and Elon Musk-related accounts.(Not migerated yet)
 - [ ] Bilibili (Not migerated yet)
@@ -24,6 +24,3 @@
 - [ ] Apple ID x2, one in China zone and one in USA zone (Not migerated yet)
 - [ ] VPN accounts(Like BBY, not migerated yet)
 - [ ] AI accounts(Like Doubao and ChatGPT, not migerated yet)
-
-## Other things to do
-- [ ] Find a good avatar.
