@@ -31,5 +31,5 @@
 - [x] Apple ID x2, one in China zone and one in USA zone (Not migerated yet)
 - [x] 豆包
 - [x] Tavily (已删号）
-- [ ] OpenAI (即 ChatGPT，由于傻逼的 Password 按钮消失（这是已经经过验证的 Bug，能被广泛复现），导致我无法重新换绑谷歌号)
+- [x] OpenAI (换绑完成)
 - [x] Twillo (已删号)
